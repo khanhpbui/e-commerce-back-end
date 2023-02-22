@@ -13,6 +13,7 @@ Click [HERE](https://drive.google.com/file/d/1GwqH_REfMnNpiSeRPdx9GewKBgRet2jB/v
     
 - [Description](#description)
 - [Installation](#installation)
+- [Technologies](#technologies)
 - [User Story](#usage)
 - [Acceptance Criteria](#acceptance-criteria)
 - [License](#license)
@@ -21,21 +22,23 @@ Click [HERE](https://drive.google.com/file/d/1GwqH_REfMnNpiSeRPdx9GewKBgRet2jB/v
 - [Questions](#questions)
     
 ## Installation
-    
+
 ```
 mysql -u root -p
 
 SOURCE schema.sql;
 ```
-
 ```
 npm run seed
 ```
-
 ```
 npm start
 ```
-
+## Technologies
+- MySQL
+- Sequelize
+- Express.js
+- Node.js
 
 ## User Story
     
