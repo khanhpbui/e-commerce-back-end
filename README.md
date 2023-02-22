@@ -4,7 +4,7 @@
 
 This application will allow the users to manage their internet retail web page from the back end.
 <br><br>
-![E-Commerce Back End](./img/e-commerce-back-end.png)
+<img src="./img/e-commerce-back-end.png" alt="screeenshot" width="550px" height="400px">
 <br><br>
 Click [HERE](https://drive.google.com/file/d/1GwqH_REfMnNpiSeRPdx9GewKBgRet2jB/view) to view a full video demonstrating a walkthrough of how to run the application.
 
